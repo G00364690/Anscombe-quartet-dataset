@@ -10,8 +10,9 @@ In order to complete this assigment it was necessary to:
 1. Download & install Anaconda
 2. Download & install Console Emulator x64
 3. Create directory and files such as this README, LICENSE and .gitignore using Linux commands
-4. Launch a jupyter notebook from the command line
-5. Sync files on my local machine to repository on GitHub allow me to push updates to the jupyter notebook over various commits
+4. Launch a jupyter notebook from the command line and create Anscombe-quartet.ipynb
+5. Download the Anscombe Quartet dataset and read the dataset into Anscombe-quartet.ipynb and perform analysis
+6. Sync files on my local machine to repository on GitHub allow me to push/pull updates to the jupyter notebook over various commits
 
 
 To review the analysis methods and conclusions from the assigment:
